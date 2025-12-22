@@ -29,4 +29,4 @@ ICE-Bite from IoTSRG offers a practical and affordable solution for soldering an
 | 2024     | [Karthik Ekanathan](https://github.com/kekanath) | [Null Community Meetup](https://null.community/) | [Microprobing with ICEBite](https://null.community/event_sessions/4278-microprobing-with-icebite) |
 
 ## Blog
-[Microprobing with ICEBite - A Definitive guide fo soldeless testing probes](https://www.iotsecurity101.org/blog/microprobing-with-icebite---a-definitive-guide-fo-soldeless-testing-probes)
+[Microprobing with ICEBite - A Definitive guide fo soldeless testing probes](https://www.iotsrg.org/blogs/icebite) |
